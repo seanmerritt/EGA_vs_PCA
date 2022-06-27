@@ -1,1 +1,1 @@
-# EGA_vs_PCA
+# EGA vs PCA
